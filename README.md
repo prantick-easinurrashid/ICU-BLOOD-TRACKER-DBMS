@@ -2,4 +2,4 @@
 
 ICU Distribution & Automatic Blood Seeking.
 
-Distributed database, Virtual box, MSSQL, Query.
+Distributed database, PL/SQL, Query. Virtual box, OS.
